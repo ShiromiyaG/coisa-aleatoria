@@ -140,8 +140,8 @@
     "spec": 2,
     "background": {
       "blur": 0,
-      "url": "https://raw.githubusercontent.com/ShiromiyaG/coisa-aleatoria/refs/heads/main/foto1.png",
-      "alpha": 1.0,
+      "url": "https://raw.githubusercontent.com/ShiromiyaG/coisa-aleatoria/refs/heads/main/foto3.png",
+      "alpha": 0.2,
       "color": "#282828"
 
     },
