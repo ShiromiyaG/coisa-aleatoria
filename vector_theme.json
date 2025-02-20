@@ -139,9 +139,9 @@
 },
     "spec": 2,
     "background": {
-      "blur": 7,
+      "blur": 3,
       "url": "https://raw.githubusercontent.com/ShiromiyaG/coisa-aleatoria/refs/heads/main/foto3.png",
-      "alpha": 7,
+      "alpha": 3,
       "color": "#2e2e2e"
 
     },
