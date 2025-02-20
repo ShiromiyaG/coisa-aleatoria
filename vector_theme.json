@@ -141,7 +141,7 @@
     "background": {
       "blur": 0,
       "url": "https://raw.githubusercontent.com/ShiromiyaG/coisa-aleatoria/refs/heads/main/foto1.png",
-      "alpha": 0.2,
+      "alpha": 1.0,
       "color": "#282828"
 
     },
